@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * bimerging - merges a seq in asscending or descending order
+ * bimerging - merge a seq in asscending or descending order
  * @array: array of integers
  * @size: size of array
  * @lindex: left element index
