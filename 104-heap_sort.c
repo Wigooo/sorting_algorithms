@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * heaping - turns array in heaps
+ * heaping - turn array in heaps
  * @array: array of integers
  * @hsize: number of integers in subtrees
  * @itree: index of subtree in heap
