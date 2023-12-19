@@ -1,7 +1,7 @@
 #include "deck.h"
 
 /**
- * string_cmp - compares two strings
+ * string_cmp - compare two strings
  * @s1: first string to compare
  * @s2: second string to compare
  *
