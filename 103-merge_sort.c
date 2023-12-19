@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * merging_babyarrays - merging subarray
+ * merging_babyarrays - merge subarray
  * @baby: subarray of main array
  * @buffer: buffer to store in sorted baby array
  * @first: front index of array
